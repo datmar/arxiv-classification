@@ -2,7 +2,6 @@
 Classify arXiv research papers based on topic
 
 ## Setup
- - Run `pip install -r requirements.txt`
  - Obtain an api key [here](https://core.ac.uk/api-keys/register) for Core.
  - In config.py file (in root directory) assign API_KEY = "your_api_key"
 ## Usage
